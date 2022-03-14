@@ -1,8 +1,12 @@
 # Note Taker
 
+## Webpage
+
+https://secret-eyrie-14657.herokuapp.com/notes
+
 ## Description
 
-Project is a webpage that lets you create notes for yourself.
+Project is a webpage that lets you create notes for yourself. App deployed to Heroku.
 
 ## Installation
 
@@ -10,7 +14,7 @@ Go to my note taker github repo and fork the code.
 
 ## Usage
 
-Go to the webpage in this readme. Click the plus button to add your personal note. click the delete button to delete notes you do not need anymore
+Go to the webpage in this readme. Click the plus button to add your personal note. click the delete button to delete notes you do not need anymore.
 
 ## Screenshots
 
